@@ -3,5 +3,4 @@
 # (usually in src/host/loader_services.cpp) before the game will start.
 # symbol | needed by
 t_i_l() | take2_new.so
-HighScoresManager::PlayerName(int) | take2_new.so
 USBIO::FoundUSB() | take2_new.so
